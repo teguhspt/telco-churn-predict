@@ -32,7 +32,7 @@ Kemudian akan dilanjutkan dengan membangun model klasifikasi yang akan membantu 
 
 **Metric Evaluation**
 
-![image.png](attachment:image.png)
+![image](https://github.com/teguhspt/telco-churn-predict/assets/151754504/09bcd885-34dd-4f2c-adf3-22f3ec408bcf)
 
 **Insight :** <br>
 
